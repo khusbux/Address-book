@@ -1,0 +1,6 @@
+D:\>javac Address.java
+
+D:\>javac addressTest.java
+
+D:\>java test
+Address: 2, abs, town, india, 234

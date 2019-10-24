@@ -1,0 +1,21 @@
+*************** This is a solution for managing Address-book ****************
+
+Project structure:
+			
+			Folder Address-book
+				|
+				|-Address.java
+				|-addressTest.java
+				|-output.txt
+				|-report.txt
+				
+
+*******************************************
+
+# Steps to follow:-
+	1. First download & install jre. (Please ignore if already installed)
+	2. Open command prompt in Address-book folder and compile both files by executing this command:
+			>javac Address.java
+			>javac AddressTest.java
+	3. Now Run the following commands to execute and test the Output:
+			>java test
